@@ -226,7 +226,7 @@ a[target="_blank"] {color: purple;}
 	.react-datepicker__day:hover {background-color: purple!important}
 	.react-datepicker__day--disabled , .react-datepicker__day--outside-month {background-color: rgba(10,10,10,0.5)!important}
 	.react-datepicker__day--disabled:hover , .react-datepicker__day--outside-month:hover {background-color: rgba(255,0,0,0.5)!important}
-	.react-datepicker__day--selected::after {background-color: red!important}
+	.react-datepicker__day--selected::after {background-color: purple!important}
 	.hintValue-29ny8Z {background-color: purple!important}
 
 	/*Join & Create Server Popup*/
